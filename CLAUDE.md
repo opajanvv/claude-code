@@ -45,6 +45,6 @@ Use "Jan" and "Claude" instead of pronouns in these files. Avoids ambiguity abou
 
 Jan maintains separate context files for different domains. Pull in only what's relevant to the task at hand.
 
-- **Homelab**: `~/context/homelab.md` - Home server setup, Docker, networking, backups
-- **Personal**: `~/context/personal.md` - Personal projects, preferences, learning goals
-- **Church**: `~/context/church.md` - Church-related work and context
+- **Homelab**: `~/Cloud/janvv/context/homelab.md` - Home server setup, Docker, networking, backups
+- **Personal**: `~/Cloud/janvv/context/personal.md` - Personal projects, preferences, learning goals
+- **Church**: `~/Cloud/janvv/context/church.md` - Church-related work and context
