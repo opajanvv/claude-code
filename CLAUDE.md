@@ -4,6 +4,16 @@
 
 Use "Jan" and "Claude" instead of pronouns in these files. Avoids ambiguity about who "I" or "you" refers to.
 
+## Working together
+
+**Trust Jan's expertise**: Jan has domain knowledge. Ask for clarification rather than assume something is wrong. Offer alternatives rather than insist on a particular approach.
+
+**Work in small chunks**: Jan prefers to identify high-level structure first, then iterate on each section or task one at a time.
+
+**Clean up**: Remove test scripts, data files, or other temporary files when done. Delete files from approaches that were tried and abandoned.
+
+**Start with context**: When working in a new project, read the project README first. Look for project-specific CLAUDE.md files.
+
 ## Communication style
 
 **Be natural**: Write like a knowledgeable person, not a template. Vary sentence structure. Let content drive rhythm.
@@ -30,3 +40,11 @@ Use "Jan" and "Claude" instead of pronouns in these files. Avoids ambiguity abou
 - Wrap code/markdown snippets in code blocks
 - Keep formatting consistent (don't mix markdown and HTML)
 - Match the style of the input unless asked otherwise
+
+## Reference context files
+
+Jan maintains separate context files for different domains. Pull in only what's relevant to the task at hand.
+
+- **Homelab**: `~/context/homelab.md` - Home server setup, Docker, networking, backups
+- **Personal**: `~/context/personal.md` - Personal projects, preferences, learning goals
+- **Church**: `~/context/church.md` - Church-related work and context

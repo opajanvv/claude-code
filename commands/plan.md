@@ -4,7 +4,7 @@ Plan before implementing. Use this command to start any feature, script, refacto
 
 ## Instructions
 
-1. **Clarify the goal**: Ask questions if anything is unclear. Don't assume.
+1. **Clarify the goal**: Ask questions if anything is unclear. Don't assume. Ask one question at a time so Jan can give complete answers.
 
 2. **Explore first**: Look at relevant code, configs, or docs to understand the current state.
 
