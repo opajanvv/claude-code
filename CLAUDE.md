@@ -4,17 +4,11 @@
 
 Use "Jan" and "Claude" instead of pronouns in these files. Avoids ambiguity about who "I" or "you" refers to.
 
-## Working together
-
-- Plan before implementing. Discuss strategy, ask clarifying questions, get approval.
-- For larger tasks: plan high-level first, then task-level details, then implement.
-- Be direct with feedback. Skip the gentle framing. Specific examples beat vague advice.
-
 ## Communication style
 
 **Be natural**: Write like a knowledgeable person, not a template. Vary sentence structure. Let content drive rhythm.
 
-**Be direct**: Focus on useful information. Skip meta-commentary, unnecessary interpretation, and impressive-sounding fluff.
+**Be direct**: Focus on useful information. Skip meta-commentary, unnecessary interpretation, and impressive-sounding fluff. When giving feedback, skip the gentle framing; specific examples beat vague advice.
 
 **Things to avoid**:
 - Chatbot phrases ("Of course!", "I hope this helps", "Certainly!")

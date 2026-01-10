@@ -20,7 +20,7 @@ Review the provided text with direct, useful feedback. No sugarcoating.
 
 4. Be direct. If something's weak, say so. Skip the "this is great, but..." framing.
 
-5. A bit of humor or irony is welcome when it makes the feedback land better, not as decoration.
+5. Consider the format. A casual blog post can have humor or irony; technical docs usually shouldn't. Don't flag informal tone as a problem when it fits the context.
 
 ## Example output format
 
