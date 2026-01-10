@@ -15,7 +15,7 @@ CLAUDE.md files give Claude persistent memory across conversations. See Teresa T
 - `commands/` - Custom slash commands
   - `plan.md` - Plan before implementing any feature or change
   - `review-text.md` - Direct feedback on texts and documents
-  - `git-commit.md` - Quick commits with concise messages
+  - `commit-and-push.md` - Stage, commit, and push with concise messages
   - `cleanup-downloads.md` - Remove old files from Downloads
 
 ## Setup
