@@ -13,11 +13,10 @@ CLAUDE.md files give Claude persistent memory across conversations. See Teresa T
 - `CLAUDE.md` - Global instructions (symlinked to `~/.claude/CLAUDE.md`)
 - `.claude/CLAUDE.md` - Project-specific instructions for this repo
 - `commands/` - Custom slash commands
-  - `plan.md` - Plan before implementing any feature or change
-  - `review-text.md` - Direct feedback on texts and documents
-  - `commit-and-push.md` - Stage, commit, and push with concise messages
-  - `cleanup-downloads.md` - Remove old files from Downloads
-
+  - `cleanup-downloads.md` - Cleanup Downloads
+  - `commit-and-push.md` - Commit and push
+  - `plan.md` - Plan
+  - `review-text.md` - Review text
 ## Setup
 
 Symlink or copy files to `~/.claude/`:
