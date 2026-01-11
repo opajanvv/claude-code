@@ -1,4 +1,4 @@
-# Cleanup downloads
+# Cleanup Downloads
 
 Remove files from ~/Downloads that haven't been accessed in over a week, then remove any empty directories.
 
