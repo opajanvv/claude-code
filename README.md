@@ -17,6 +17,7 @@ CLAUDE.md files give Claude persistent memory across conversations. See Teresa T
   - `commit-and-push.md` - Commit and push
   - `plan.md` - Plan
   - `review-text.md` - Review text
+
 ## Setup
 
 Symlink or copy files to `~/.claude/`:
