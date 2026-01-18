@@ -15,6 +15,7 @@ CLAUDE.md files give Claude persistent memory across conversations. See Teresa T
 - `commands/` - Custom slash commands
   - `cleanup-downloads.md` - Cleanup Downloads
   - `commit-and-push.md` - Commit and push
+  - `evaluate.md` - Evaluate
   - `plan.md` - Plan
   - `review-text.md` - Review text
 
